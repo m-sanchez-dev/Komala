@@ -3,7 +3,7 @@
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=sWallyx/Komala)](https://dependabot.com)
 [![CodeFactor](https://www.codefactor.io/repository/github/swallyx/komala/badge)](https://www.codefactor.io/repository/github/swallyx/komala)
 
-![](https://cdn.bulbagarden.net/upload/7/7d/775Komala.png)
+![](https://img.pokemondb.net/artwork/komala.jpg)
 
 __Komala__ is a bot for discord to play music, from youtube.
 
